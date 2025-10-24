@@ -73,7 +73,8 @@ import { FormBuilder, FormGroup, Validators, ReactiveFormsModule } from '@angula
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class RequestFormComponent {
-  private fb = inject(FormBuilder);
+  // FIX: Explicitly type `fb` as `FormBuilder` to resolve type inference issue.
+  private fb: FormBuilder = inject(FormBuilder);
   
   closeModal = output<void>();
   formSubmitted = output<NewLeaveRequest>();
