@@ -8,7 +8,7 @@ const MOCK_EMPLOYEES: Employee[] = [
     name: 'Elena Rodríguez',
     position: 'Frontend Developer',
     email: 'elena.rodriguez@example.com',
-    avatar: 'https://i.pravatar.cc/100?u=elena',
+    avatar: 'https://i.pravatar.cc/100?u=carlos',
     role: 'Empleado',
     leaveBalances: [
       { type: 'Vacaciones', total: 20, used: 5, remaining: 15 },
@@ -21,7 +21,7 @@ const MOCK_EMPLOYEES: Employee[] = [
     name: 'Carlos Méndez',
     position: 'Team Lead',
     email: 'carlos.mendez@example.com',
-    avatar: 'https://i.pravatar.cc/100?u=carlos',
+    avatar: 'https://i.pravatar.cc/100?u=elena',
     role: 'Supervisor',
     leaveBalances: [
       { type: 'Vacaciones', total: 25, used: 10, remaining: 15 },
