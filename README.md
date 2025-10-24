@@ -1,6 +1,11 @@
 
 # HR Flow: Portal de Gestión de Ausencias
 
+## Integrantes: Bryan Arias Rios - Farly Andres Rivera David
+- Correos institucionales: barias@unilasallista.edu.co - frivera@unilasallista.edu.co
+- Empresa para la cual se desarrolla el proyecto: Comfachochó Quibdó
+
+
 HR Flow es una aplicación web moderna y reactiva, desarrollada con Angular, diseñada para simplificar y automatizar la gestión de vacaciones, permisos y licencias en una empresa. Esta solución innovadora permite a los empleados gestionar sus ausencias de manera transparente, mientras que ofrece a los supervisores las herramientas necesarias para aprobar solicitudes y visualizar la disponibilidad del equipo en tiempo real.
 
 ## ✨ Características Principales
